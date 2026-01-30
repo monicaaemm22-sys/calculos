@@ -50,8 +50,8 @@ namespace Calculos
         /// <summary>
         /// Conversão de distâncias
         /// </summary>
-        /// <param name="conversao"></param>
-        /// <param name="distancia"></param>
+        /// <param name="conversao">A conversãoo a efetuar</param>
+        /// <param name="distancia">A distância a converter</param>
         /// <returns>O resultado da conversão da distância</returns>
         public static double ConverterDistancias(ConversaoDistancia conversao, double distancia)
         {
