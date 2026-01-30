@@ -24,7 +24,7 @@ namespace Calculos
         /// Operação de subtração
         /// </summary>
      
-        /// <returns>Retorna a subtraçaõ de dois números inteiros</returns>
+        /// <returns>Retorna a subtração de dois números inteiros</returns>
         public int Subtrair (int x, int y)
         {
             return x - y;
